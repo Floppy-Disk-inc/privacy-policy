@@ -1,10 +1,15 @@
 :root {
     --bg-color: #f9f9fb;
     --text-main: #333333;
-    --text-muted: #666666;
+    --text-muted: #26ab28;
     --accent-color: #0056b3;
     --container-bg: #ffffff;
     --border-color: #e0e0e0;
+}
+
+#logo {
+    height: 64px;
+    width: 64px;
 }
 
 * {
